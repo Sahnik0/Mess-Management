@@ -2,6 +2,10 @@
 
 This is a web-based Mess Management System designed to simplify and automate routine tasks for managing a shared mess. The system allows users to log in, manage market duty schedules, track expenses, and handle contributions transparently.
 
+
+
+![image](https://github.com/Sahnik0/Mess-Management/blob/1b525836d1cfa784bbee3a8fee32b6ae4bb1c323/WhatsApp%20Image%202025-01-09%20at%2000.18.24_5cb46ac1.jpg)
+
 ## Features
 
 1. **User Authentication**:
